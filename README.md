@@ -1,4 +1,4 @@
-# modeling
+# Ferment It Yourself - Modeling
 This program modelizes the cells population evolution with mother cell differentiation and cell division.
 
 For more informations see the following links:
